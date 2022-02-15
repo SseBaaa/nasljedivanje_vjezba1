@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\bin\Debug\nasljeđivanje_vježba1.exe.config
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\bin\Debug\nasljeđivanje_vježba1.exe
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\bin\Debug\nasljeđivanje_vježba1.pdb
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\obj\Debug\nasljeđivanje_vježba1.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\obj\Debug\nasljeđivanje_vježba1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\obj\Debug\nasljeđivanje_vježba1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\obj\Debug\nasljeđivanje_vježba1.exe
+C:\Users\ucenik\source\repos\nasljeđivanje_vježba1\nasljeđivanje_vježba1\obj\Debug\nasljeđivanje_vježba1.pdb
